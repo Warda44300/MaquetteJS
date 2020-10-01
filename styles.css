@@ -2,6 +2,10 @@ body
 {
 	background-color: #999999
 }
+.hearder
+{
+	background-color: #DADADA;
+}
 article
 {
 	margin-bottom: 6px;
@@ -11,6 +15,7 @@ svg
 	color: blue;
 	margin-top: 15px;
 }
+
 h4
 {
 	background-color: #DADADA;
@@ -31,11 +36,47 @@ h3,h4
 {
 	font-size: 18px;
 }
+h4
+{
+	color: #3A40B0;
+}
+h3
+{
+	color: white;
+	margin-top: 12px;
+	margin-bottom: 8px;
+}
+h5
+{
+	color: #3A40B0;
+}
+button
+{
+	background-color: #3A40B0;
+	color: white;
+}
+.titreh3
+{
+	color: #3A40B0;
+}
 p
 {
 	font-size: 14px;
 	margin-top: 20px;
 	color: blue;
+}
+.periode
+{
+	margin-top: 20px;
+}
+/*chengement taille colonne*/
+.tablette
+{
+	height: 390px;
+}
+.vordi
+{
+	height: 480px;
 }
 
 iframe
@@ -51,11 +92,31 @@ iframe
 	background-color: #DADADA;
 
 }
-
+/*chrono*/
+.chrono
+{
+	background-color: #3A40B0;
+	height: 100px;
+	margin-top: 30px;
+}
+progress
+{
+	width: 70px;
+	height: 25px;
+	margin-top: 15px;
+}
+.col-6
+{
+	margin-top: 1S0px;
+}
 
 footer
 {
 	background-color:  #DADADA;
 	margin-top: 30px;
 	margin-bottom: 0;
+}
+.imgfooter
+{
+	margin-top: 5px;
 }
